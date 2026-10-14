@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="asstes/JOBZZY_text.png" alt="Jobzzy Tech Logo" width="320">
+  <img src="assets/JOBZZY_text.png" alt="Jobzzy Tech Logo" width="320">
 
   <p align="center">
     <strong>L'intelligence de demain — L'infrastructure intelligente de votre entreprise</strong>
@@ -59,14 +59,14 @@ Fondée en **2023** à **Oran (Bir-El-Djir), Algérie**, **Jobzzy Tech** est une
 Jobzzy Tech propose une couverture complète du spectre technologique à travers 6 pôles majeurs :
 
 1. 💻 Logiciels d'Entreprise & Plateformes Sur Mesure
-- Conception d'**ERP**, **CRM**, et logiciels de gestion métier hautement personnalisés.
+- Conception d'**ERP**, **CRM**, et logiciels de gestion métier personnalisés.
 - Développement de plateformes web scalables et d'outils collaboratifs internes.
 - Refonte et modernisation des systèmes d'information existants.
 
 2. ⚡ Automatisation Intelligente des Processus 
 - Automatisation des flux de travail (workflows) répétitifs et chronophages.
 - Interconnexion et synchronisation d'API entre systèmes hétérogènes.
-- Réduction drastique des erreurs humaines et accélération de la productivité (**Efficacité ×10**).
+- Réduction drastique des erreurs humaines et accélération de la productivité.
 
 3. 🧠 Intelligence Artificielle & Systèmes RAG (Retrieval-Augmented Generation)
 - Conception et entraînement de modèles d'IA adaptés aux données privées d'entreprise.
@@ -111,7 +111,7 @@ Jobzzy Tech propose une couverture complète du spectre technologique à travers
 
 \- Mémorisation du choix dans le `localStorage` et prise en compte automatique de `prefers-color-scheme`.
 
-\- Script anti-FOUC (\*Flash of Unstyled Content\*) au chargement.
+\- Script anti-FOUC (Flash of Unstyled Content) au chargement.
 
 
 
@@ -155,7 +155,7 @@ Jobzzy Tech propose une couverture complète du spectre technologique à travers
 
 
 
-💻  ** Stack Technique \& Choix d'Architecture **
+💻  **Stack Technique \& Choix d'Architecture** 
 
 
 
@@ -176,7 +176,7 @@ Services      : Web3Forms API (Messagerie)
 
 ---
 
-Je vous invite à parcourir le site plus en détail via les lien ci-dessous.
+Je vous invite à parcourir le site plus en détail via les lien ci-dessous :
 
 https://jobzzy.tech/
 
